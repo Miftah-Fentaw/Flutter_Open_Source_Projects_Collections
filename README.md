@@ -1,6 +1,6 @@
 # 🚀 Flutter Open Source Projects Collections
 
-![Flutter Open Source Projects Collections](assets/images/banner.png)
+![Flutter Open Source Projects Collections](banner.png)
 
 ---
 
