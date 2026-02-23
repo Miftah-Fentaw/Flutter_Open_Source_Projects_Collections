@@ -90,10 +90,10 @@ Help us keep this community healthy! Please respect our [Code of Conduct](./Code
 
 ## ⚖️ License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the **MIT License**. See [LICENSE](./LICENSE) for more information.
 
 ---
 
 <p align="center">
-  <b>Built with ❤️ by <a href="https://github.com/Miftah-Fentaw">Miftah Fentaw</a></b>
+  <b>Maintained by <a href="https://github.com/Miftah-Fentaw">Miftah Fentaw</a></b>
 </p>
