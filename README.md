@@ -1,5 +1,9 @@
 # 🚀 Flutter Open Source Projects Collections
 
+![Flutter Open Source Projects Collections](assets/images/banner.png)
+
+---
+
 A curated, comprehensive repository of high-quality, real-world, and public open-source Flutter projects. This collection is designed for developers, researchers, and hobbyists to explore best practices, learn architectural patterns, and contribute to the Flutter ecosystem.
 
 ---
