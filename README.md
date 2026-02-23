@@ -60,8 +60,3 @@ Help us maintain a positive and inclusive environment. Please read our [Code of 
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
----
-
-<p align="center">
-  Proudly maintained by <b>Miftah Fentaw</b>
-</p>
